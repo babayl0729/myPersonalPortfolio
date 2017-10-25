@@ -1,0 +1,83 @@
+
+  body {
+      position: relative; 
+  }
+
+  title {
+
+  }
+
+    #myNavbar {
+    float: right;
+  }
+
+ 
+  #section1 {
+    padding-top: 150px;
+  	height:500px;
+  	color: #fff; 
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Roboto Mono', monospace;
+  	background: url(angelina-litvin-35708.jpg);
+    background-size: 1500px 500px;
+    background-repeat: no-repeat; 
+  }
+
+  #section2 {
+    padding-top:50px;
+  	height:500px;
+  	color: #fff; 
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+  	background: url(the-crowned-357973.jpg);
+    background-size: 1500px 500px;
+    background-repeat: no-repeat; 
+  }
+
+  #section3 {
+  	padding-top:50px;
+  	height:500px;
+  	color: #fff; 
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    background: url(greg-rakozy-38802.jpg);
+    background-size: 1500px 500px;
+    background-repeat: no-repeat; 
+  }
+
+  #section4 {
+  	padding-top:50px;
+  	height:500px;
+  	color: #fff; 
+    font-family: 'Roboto Mono', monospace;
+    padding-top: 100px;
+    text-align: center;
+    background: url(nasa-45068.jpg);
+    background-size: 1500px 500px;
+    background-repeat: no-repeat; 
+  }
+
+  #git {
+    font-size: 24px;
+    color: #fff;
+    padding-right: 20px;
+  }
+
+  #link {
+    font-size: 24px;
+    color: #fff;
+    padding-left: 20px;
+  }
+
+  #proj {
+    width: 150px;
+    height: 150px;
+  }
+
+ 
+
+
+
+
+  
