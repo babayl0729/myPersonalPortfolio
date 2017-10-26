@@ -17,6 +17,7 @@
  
   #section1 {
     padding-top: 150px;
+	  max-width: 500px;
   	height:500px;
   	color: #fff; 
     text-align: center;
