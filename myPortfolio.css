@@ -1,10 +1,6 @@
- body {
-      position: relative; 
-  }
-
-  title {
-
-  }
+* {
+	box-sizing: border-box;
+			}
 
     #myNavbar {
     float: right;
