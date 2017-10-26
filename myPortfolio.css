@@ -15,7 +15,7 @@
     font-size: 150%;
     font-family: 'Roboto Mono', monospace;
   	background: url(angelina-litvin-35708.jpg);
-    background-size: 1500px 500px;
+     background-size: 100% 100%;
     background-repeat: no-repeat; 
   }
 
@@ -37,7 +37,7 @@
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     background: url(greg-rakozy-38802.jpg);
-    background-size: 2000px 500px;
+     background-size: 100% 100%;
     background-repeat: no-repeat; 
   }
 
@@ -49,7 +49,7 @@
     padding-top: 100px;
     text-align: center;
     background: url(nasa-45068.jpg);
-    background-size: 1500px 500px;
+    background-size: 100% 100%;
     background-repeat: no-repeat; 
   }
 
