@@ -1,6 +1,7 @@
-* {
-	box-sizing: border-box;
-			}
+
+  body {
+      position: relative; 
+  }
 
     #myNavbar {
     float: right;
@@ -8,47 +9,48 @@
 
  
   #section1 {
-    padding-top: 50px;
-	  height:500%;
+    padding-top: 150px;
+    height:500px;
   	color: #fff; 
     text-align: center;
     font-size: 150%;
     font-family: 'Roboto Mono', monospace;
   	background: url(angelina-litvin-35708.jpg);
-     background-size: 100% 100%;
+    background-size: 100% 100%
     background-repeat: no-repeat; 
   }
 
   #section2 {
     padding-top:50px;
-	  height:500%;
+  	height:500px;
   	color: #fff; 
     text-align: center;
     font-family: 'Roboto Mono', monospace;
   	background: url(the-crowned-357973.jpg);
-    background-size: 100% 100%;
+    background-size: 100% 100%
     background-repeat: no-repeat; 
   }
 
   #section3 {
   	padding-top:50px;
-	  height:500%;
+  	height:500px;
   	color: #fff; 
     font-family: 'Roboto Mono', monospace;
     text-align: center;
     background: url(greg-rakozy-38802.jpg);
-     background-size: 100% 100%;
+    background-size: 100% 100%
     background-repeat: no-repeat; 
   }
 
   #section4 {
   	padding-top:50px;
-	  height:500%;
+  	height:500px;
   	color: #fff; 
     font-family: 'Roboto Mono', monospace;
+    padding-top: 100px;
     text-align: center;
     background: url(nasa-45068.jpg);
-    background-size: 100% 100%;
+    background-size: 100% 100%
     background-repeat: no-repeat; 
   }
 
@@ -65,8 +67,8 @@
   }
 
   #proj {
-    width: 150px;
-    height: 150px;
+    width: 10%;
+    height: 30%;
   }
 
  
